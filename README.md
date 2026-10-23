@@ -7,7 +7,6 @@
 <a href="https://github.com/thaxao?tab=repositories"><img src="https://img.shields.io/badge/Projects-thaxao-1a1b27?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
 <img src="https://img.shields.io/badge/Main%20language-Zig-F7A41D?style=flat-square&logo=zig&logoColor=white" alt="Main language: Zig" />
 <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="OS: Arch Linux" />
-<img src="https://komarev.com/ghpvc/?username=thaxao&style=flat-square&color=1a1b27&label=Profile+views" alt="Profile views" />
 
 </div>
 
