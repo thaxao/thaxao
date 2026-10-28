@@ -37,8 +37,8 @@
 ### Featured projects
 
 <p align="center">
-  <a href="https://github.com/thaxao/Remielle-Astral"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thaxao&repo=Remielle-Astral&theme=tokyonight&hide_border=true&border_radius=10" alt="Remielle-Astral" width="49%" /></a>
-  <a href="https://github.com/thaxao/Client-Patch-Zenless-PS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thaxao&repo=Client-Patch-Zenless-PS&theme=tokyonight&hide_border=true&border_radius=10" alt="Client-Patch-Zenless-PS" width="49%" /></a>
+  <a href="https://github.com/thaxao/Sunbringer-Astral"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thaxao&repo=Sunbringer-Astral&theme=tokyonight&hide_border=true&border_radius=10" alt="Sunbringer-Astral" width="49%" /></a>
+  <a href="https://github.com/thaxao/Sunbringer-Meter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thaxao&repo=Sunbringer-Meter&theme=tokyonight&hide_border=true&border_radius=10" alt="Sunbringer-Meter" width="49%" /></a>
 </p>
 
 ### GitHub at a glance
