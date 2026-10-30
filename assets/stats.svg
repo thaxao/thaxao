@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="165" viewBox="0 0 400 165" role="img" aria-label="GitHub stats">
+<rect x="0.5" y="0.5" width="399" height="164" rx="10" fill="#1a1b27"/>
+<g style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif">
+<text x="25" y="35" fill="#70a5fd" font-size="18" font-weight="600">thaxao on GitHub</text>
+<circle cx="31" cy="56" r="4" fill="#bf91f3"/><text x="45" y="60" fill="#a9b1d6" font-size="13">Commits (past year)</text><text x="375" y="60" fill="#a9b1d6" font-size="13" font-weight="700" text-anchor="end">42</text>
+<circle cx="31" cy="75" r="4" fill="#bf91f3"/><text x="45" y="79" fill="#a9b1d6" font-size="13">Public repositories</text><text x="375" y="79" fill="#a9b1d6" font-size="13" font-weight="700" text-anchor="end">5</text>
+<circle cx="31" cy="94" r="4" fill="#bf91f3"/><text x="45" y="98" fill="#a9b1d6" font-size="13">Stars earned</text><text x="375" y="98" fill="#a9b1d6" font-size="13" font-weight="700" text-anchor="end">0</text>
+<circle cx="31" cy="113" r="4" fill="#bf91f3"/><text x="45" y="117" fill="#a9b1d6" font-size="13">Pull requests</text><text x="375" y="117" fill="#a9b1d6" font-size="13" font-weight="700" text-anchor="end">0</text>
+<circle cx="31" cy="132" r="4" fill="#bf91f3"/><text x="45" y="136" fill="#a9b1d6" font-size="13">Issues</text><text x="375" y="136" fill="#a9b1d6" font-size="13" font-weight="700" text-anchor="end">0</text>
+<circle cx="31" cy="151" r="4" fill="#bf91f3"/><text x="45" y="155" fill="#a9b1d6" font-size="13">Followers</text><text x="375" y="155" fill="#a9b1d6" font-size="13" font-weight="700" text-anchor="end">0</text>
+</g>
+</svg>

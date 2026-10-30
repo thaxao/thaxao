@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" role="img" aria-label="Sunbringer-Meter">
+<rect x="0.5" y="0.5" width="399" height="119" rx="10" fill="#1a1b27"/>
+<g style="font-family:'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif">
+<path transform="translate(25,25)" fill="#bf91f3" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8z"/>
+<text x="50" y="38" fill="#70a5fd" font-size="16" font-weight="600">Sunbringer-Meter</text>
+<text x="25" y="64" fill="#a9b1d6" font-size="13">Sunbringer Meter: the in-game damage meter for </text>
+<text x="25" y="82" fill="#a9b1d6" font-size="13">Sunbringer Astral (release builds only)</text>
+<text x="25" y="105" fill="#a9b1d6" font-size="12">&#9733; 0</text>
+<text x="75" y="105" fill="#a9b1d6" font-size="12">&#10697; 0</text>
+</g>
+</svg>
